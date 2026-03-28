@@ -1,7 +1,3 @@
 streamlit
-googletrans==4.0.0-rc1
+deep-translator
 gtts
-speechrecognition
-pydub
-ffmpeg-python
-httpx==0.13.3
