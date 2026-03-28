@@ -4,3 +4,4 @@ gtts
 speechrecognition
 pydub
 ffmpeg-python
+httpx==0.13.3
